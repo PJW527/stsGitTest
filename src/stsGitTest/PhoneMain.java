@@ -17,6 +17,9 @@ public class PhoneMain {
 		p = i;
 		p.sendMsg();
 		
+		p = g;
+		p.sendMsg();
+		
 	}
 
 }
